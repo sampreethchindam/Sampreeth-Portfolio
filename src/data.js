@@ -7,7 +7,7 @@ export const profile = {
   email: '', // Add your public contact email before launch
   intro: 'I design reliable cloud data platforms, real-time pipelines and AI-powered workflows that turn complex data into business impact.',
   github: 'https://github.com/sampreethchindam',
-  linkedin: 'https://www.linkedin.com/in/sampreeth-chindam/',
+  linkedin: 'https://www.linkedin.com/in/sampreethchin/',
   resume: '', // Optional: copy a public-safe PDF to public/resume.pdf and set 'resume.pdf'
   avatar: 'img/faces/avatar.svg',
   heroImage: 'img/photos/hero.svg', // Replace with a photo or transparent male portrait when ready
