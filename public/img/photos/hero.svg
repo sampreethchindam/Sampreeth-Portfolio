@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="900" viewBox="0 0 720 900" role="img" aria-label="Generic illustrated male data engineer with laptop">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E3F3FC"/><stop offset="1" stop-color="#9CD1E2"/></linearGradient><linearGradient id="j" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#203855"/><stop offset="1" stop-color="#0B213B"/></linearGradient></defs>
+<circle cx="394" cy="490" r="302" fill="url(#bg)"/>
+<rect x="340" y="115" width="310" height="190" rx="25" fill="#152743" stroke="#4AA9BC" stroke-width="7" transform="rotate(8 340 115)"/>
+<rect x="379" y="147" width="200" height="14" rx="7" fill="#6BBECC" transform="rotate(8 379 147)"/>
+<path d="M389 237 L437 204 L485 217 L528 173 L587 197" stroke="#61DACA" stroke-width="13" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="602" cy="240" r="18" fill="#4DDFBE"/>
+<rect x="70" y="305" width="192" height="144" rx="20" fill="#FFFFFF" stroke="#C0DEE9" stroke-width="7" transform="rotate(-11 70 305)"/>
+<rect x="97" y="337" width="112" height="10" rx="5" fill="#879AAF" transform="rotate(-11 97 337)"/>
+<rect x="107" y="370" width="16" height="45" rx="6" fill="#188BA4" transform="rotate(-11 107 370)"/>
+<rect x="135" y="361" width="16" height="55" rx="6" fill="#57B7BE" transform="rotate(-11 135 361)"/>
+<rect x="164" y="347" width="16" height="69" rx="6" fill="#2F647C" transform="rotate(-11 164 347)"/>
+<ellipse cx="358" cy="840" rx="280" ry="44" fill="#6A98A8" opacity=".22"/>
+<!-- generic, non-identifying male illustration; not the user's photograph -->
+<path d="M165 810 Q155 596 235 553 Q289 516 361 519 Q435 522 493 558 Q563 628 560 810Z" fill="url(#j)"/>
+<path d="M305 524 L350 647 L398 525" fill="#E7F1F6"/>
+<path d="M305 531 L355 584 L397 532" fill="#FFFFFF"/>
+<path d="M353 583 L334 619 L360 674 L387 619 L369 583Z" fill="#148EA9"/>
+<rect x="331" y="460" width="73" height="98" rx="27" fill="#B86E51"/>
+<ellipse cx="366" cy="369" rx="105" ry="129" fill="#C17E60"/>
+<ellipse cx="261" cy="391" rx="17" ry="29" fill="#BB7556"/>
+<ellipse cx="471" cy="394" rx="17" ry="29" fill="#BB7556"/>
+<path d="M266 371 Q229 264 318 233 Q407 200 465 269 Q486 306 466 365 Q450 318 442 302 Q413 312 389 300 Q319 329 265 320Z" fill="#162336"/>
+<path d="M304 383 q22 -15 45 0 M397 382 q22 -15 43 0" stroke="#382B2C" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M368 393 q-8 24 5 30" stroke="#955239" stroke-width="5" fill="none" stroke-linecap="round"/>
+<path d="M338 458 q30 18 61 0" stroke="#783E36" stroke-width="6" fill="none" stroke-linecap="round"/>
+<path d="M244 578 Q209 659 217 741 M482 577 Q520 652 514 741" stroke="#39536B" stroke-width="21" fill="none" stroke-linecap="round"/>
+<rect x="158" y="664" width="417" height="235" rx="18" fill="#B3C7D5"/>
+<rect x="172" y="682" width="387" height="188" rx="10" fill="#243954"/>
+<circle cx="363" cy="770" r="47" fill="#B1DDE8" opacity=".9"/>
+<text x="363" y="785" fill="#12344A" font-size="39" font-weight="bold" font-family="Arial,sans-serif" text-anchor="middle">SC</text>
+<path d="M124 893h488" stroke="#91BDCE" stroke-width="17" stroke-linecap="round"/>
+</svg>
