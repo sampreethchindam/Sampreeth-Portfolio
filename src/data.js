@@ -9,8 +9,8 @@ export const profile = {
   github: 'https://github.com/sampreethchindam',
   linkedin: 'https://www.linkedin.com/in/sampreethchin/',
   resume: '', // Optional: copy a public-safe PDF to public/resume.pdf and set 'resume.pdf'
-  avatar: 'img/faces/avatar.svg',
-  heroImage: 'img/photos/hero.svg', // Replace with a photo or transparent male portrait when ready
+  avatar: 'img/faces/sampreeth-avatar.webp',
+  heroImage: 'img/photos/hero.webp', // Replace with a photo or transparent male portrait when ready
 }
 
 export const heroCounts = [
@@ -19,11 +19,13 @@ export const heroCounts = [
   { value: '40%', label: 'fewer release incidents' },
 ]
 
-export const about = {
-  photos: [
-    'img/photos/cloud.svg', 'img/photos/stream.svg',
-    'img/photos/ai.svg', 'img/photos/quality.svg',
-  ],
+export const about = { 
+photos: [
+  'img/photos/sampreeth-about.webp',
+  'img/photos/stream.svg',
+  'img/photos/ai.svg',
+  'img/photos/quality.svg',
+],
   roles: ['Cloud Data Engineer', 'Streaming Data Specialist', 'AI Workflow Builder', 'Data Platform Optimizer'],
   paragraphs: [
     'I am a Senior Data Engineer with 6+ years of experience building batch and streaming data platforms for financial services, healthcare, and enterprise analytics.',
