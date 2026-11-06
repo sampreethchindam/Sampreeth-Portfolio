@@ -2,35 +2,35 @@
 export const profile = {
   name: 'Sampreeth',
   full: 'Sampreeth Chindam',
-  role: 'Senior Data Engineer · AI Engineering',
+  role: 'Senior Data Engineer · AI Engineering · Gen AI',
   location: 'United States',
   email: '', // Add your public contact email before launch
   intro: 'I design reliable cloud data platforms, real-time pipelines and AI-powered workflows that turn complex data into business impact.',
   github: 'https://github.com/sampreethchindam',
-  linkedin: '', // Paste your actual LinkedIn profile URL
+  linkedin: 'https://www.linkedin.com/in/sampreeth-chindam/',
   resume: '', // Optional: copy a public-safe PDF to public/resume.pdf and set 'resume.pdf'
-  avatar: 'img/faces/sampreeth-avatar.webp',
-  heroImage: 'img/photos/sampreeth-hero.webp', // Your uploaded professional photo
+  avatar: 'img/faces/avatar.svg',
+  heroImage: 'img/photos/hero.svg', // Replace with a photo or transparent male portrait when ready
 }
 
 export const heroCounts = [
-  { value: '8+', label: 'years in data engineering' },
+  { value: '6+', label: 'years in data engineering' },
   { value: '30%', label: 'faster batch processing' },
   { value: '40%', label: 'fewer release incidents' },
 ]
 
 export const about = {
   photos: [
-    'img/photos/sampreeth-about.webp', 'img/photos/stream.svg',
+    'img/photos/cloud.svg', 'img/photos/stream.svg',
     'img/photos/ai.svg', 'img/photos/quality.svg',
   ],
   roles: ['Cloud Data Engineer', 'Streaming Data Specialist', 'AI Workflow Builder', 'Data Platform Optimizer'],
   paragraphs: [
-    'I am a Senior Data Engineer with 8+ years of experience building batch and streaming data platforms for financial services, healthcare, and enterprise analytics.',
+    'I am a Senior Data Engineer with 6+ years of experience building batch and streaming data platforms for financial services, healthcare, and enterprise analytics.',
     'My core toolkit includes Python, SQL, Spark, AWS, Snowflake and orchestration frameworks. I focus on scalable architectures, reliable delivery, production observability and practical AI solutions.',
   ],
   stats: [
-    { value: '8+', label: 'Years of experience' },
+    { value: '6+', label: 'Years of experience' },
     { value: '3', label: 'Industry domains' },
     { value: '30%', label: 'Batch runtime improvement' },
     { value: '40%', label: 'Reduction in release incidents' },
